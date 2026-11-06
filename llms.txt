@@ -1,0 +1,86 @@
+# 자동차세편
+
+> 차종별 자동차세·연비·유지비
+
+차종 이름으로 2026년 자동차세(지방교육세 포함)를 등록연도별로 보여 주는 사이트입니다. 세액은 지방세법 조문대로 배기량·연료·등록연도로 계산한 비영업용 승용차 기준입니다. 배기량·연비·연간 유류비는 한국에너지공단 자동차 표시연비 자료(공공데이터포털)를 쓰고, 공단 자료에 없는 2025년 이후 신형은 제조사 제원표의 배기량·연료를 씁니다. 지방자치단체 조례에 따라 실제 고지액이 다를 수 있어 정확한 금액은 위택스에서 확인해야 합니다.
+
+## 차종별 자동차세
+
+- [아반떼 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%84%EB%B0%98%EB%96%BC/): 현대, 2026년 새 차 기준 연 287,560원~519,740원
+- [쏘나타 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8F%98%EB%82%98%ED%83%80/): 현대, 2026년 새 차 기준 연 290,820원~649,220원
+- [그랜저 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EA%B7%B8%EB%9E%9C%EC%A0%80/): 현대, 2026년 새 차 기준 연 290,820원~902,200원
+- [캐스퍼 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%BA%90%EC%8A%A4%ED%8D%BC/): 현대, 2026년 새 차 기준 연 103,780원~130,000원
+- [베뉴 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%B2%A0%EB%89%B4/): 현대, 2026년 새 차 기준 연 290,820원
+- [코나 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%BD%94%EB%82%98/): 현대, 2026년 새 차 기준 연 130,000원~519,740원
+- [투싼 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%88%AC%EC%8B%BC/): 현대, 2026년 새 차 기준 연 289,560원~519,480원
+- [싼타페 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8B%BC%ED%83%80%ED%8E%98/): 현대, 2026년 새 차 기준 연 290,820원~649,220원
+- [팰리세이드 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%8C%B0%EB%A6%AC%EC%84%B8%EC%9D%B4%EB%93%9C/): 현대, 2026년 새 차 기준 연 571,740원~982,280원
+- [스타리아 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8A%A4%ED%83%80%EB%A6%AC%EC%95%84/): 현대, 2026년 새 차 기준 연 130,000원~902,200원
+- [아이오닉5 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%895/): 현대, 2026년 새 차 기준 연 130,000원
+- [아이오닉6 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%896/): 현대, 2026년 새 차 기준 연 130,000원
+- [아이오닉9 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%84%EC%9D%B4%EC%98%A4%EB%8B%899/): 현대, 2026년 새 차 기준 연 130,000원
+- [넥쏘 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%84%A5%EC%8F%98/): 현대, 2026년 새 차 기준 연 130,000원
+- [G70 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/G70/): 제네시스, 2026년 새 차 기준 연 519,480원~868,920원
+- [G80 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/G80/): 제네시스, 2026년 새 차 기준 연 130,000원~982,280원
+- [G90 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/G90/): 제네시스, 2026년 새 차 기준 연 868,920원~1,309,880원
+- [GV60 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/GV60/): 제네시스, 2026년 새 차 기준 연 130,000원
+- [GV70 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/GV70/): 제네시스, 2026년 새 차 기준 연 130,000원~902,200원
+- [GV80 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/GV80/): 제네시스, 2026년 새 차 기준 연 649,220원~902,200원
+- [모닝 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%AA%A8%EB%8B%9D/): 기아, 2026년 새 차 기준 연 103,780원
+- [레이 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%A0%88%EC%9D%B4/): 기아, 2026년 새 차 기준 연 103,780원~130,000원
+- [K3 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/K3/): 기아, 2026년 새 차 기준 연 289,560원~290,820원
+- [K5 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/K5/): 기아, 2026년 새 차 기준 연 289,560원~519,740원
+- [K7 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/K7/): 기아, 2026년 새 차 기준 연 571,740원~868,920원
+- [K8 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/K8/): 기아, 2026년 새 차 기준 연 290,820원~902,200원
+- [K9 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/K9/): 기아, 2026년 새 차 기준 연 868,920원~1,309,880원
+- [니로 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%8B%88%EB%A1%9C/): 기아, 2026년 새 차 기준 연 130,000원~287,560원
+- [셀토스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%85%80%ED%86%A0%EC%8A%A4/): 기아, 2026년 새 차 기준 연 287,560원~519,740원
+- [스포티지 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8A%A4%ED%8F%AC%ED%8B%B0%EC%A7%80/): 기아, 2026년 새 차 기준 연 290,820원~519,740원
+- [쏘렌토 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8F%98%EB%A0%8C%ED%86%A0/): 기아, 2026년 새 차 기준 연 290,820원~649,220원
+- [모하비 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%AA%A8%ED%95%98%EB%B9%84/): 기아, 2026년 새 차 기준 연 769,340원
+- [카니발 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%B9%B4%EB%8B%88%EB%B0%9C/): 기아, 2026년 새 차 기준 연 290,820원~902,200원
+- [스팅어 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8A%A4%ED%8C%85%EC%96%B4/): 기아, 2026년 새 차 기준 연 519,480원~868,920원
+- [EV3 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/EV3/): 기아, 2026년 새 차 기준 연 130,000원
+- [EV4 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/EV4/): 기아, 2026년 새 차 기준 연 130,000원
+- [EV5 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/EV5/): 기아, 2026년 새 차 기준 연 130,000원
+- [EV6 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/EV6/): 기아, 2026년 새 차 기준 연 130,000원
+- [EV9 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/EV9/): 기아, 2026년 새 차 기준 연 130,000원
+- [PV5 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/PV5/): 기아, 2026년 새 차 기준 연 130,000원
+- [아르카나 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%84%EB%A5%B4%EC%B9%B4%EB%82%98/): 르노코리아, 2026년 새 차 기준 연 242,420원~290,820원
+- [QM6 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/QM6/): 르노코리아, 2026년 새 차 기준 연 519,220원~519,480원
+- [SM6 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/SM6/): 르노코리아, 2026년 새 차 기준 연 242,420원~519,480원
+- [그랑 콜레오스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EA%B7%B8%EB%9E%91-%EC%BD%9C%EB%A0%88%EC%98%A4%EC%8A%A4/): 르노코리아, 2026년 새 차 기준 연 272,800원~511,940원
+- [세닉 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%84%B8%EB%8B%89/): 르노코리아, 2026년 새 차 기준 연 130,000원
+- [필랑트 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%95%84%EB%9E%91%ED%8A%B8/): 르노코리아, 2026년 새 차 기준 연 272,800원
+- [토레스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%86%A0%EB%A0%88%EC%8A%A4/): KGM, 2026년 새 차 기준 연 130,000원~272,620원
+- [액티언 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%A1%ED%8B%B0%EC%96%B8/): KGM, 2026년 새 차 기준 연 272,440원~272,620원
+- [티볼리 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%8B%B0%EB%B3%BC%EB%A6%AC/): KGM, 2026년 새 차 기준 연 272,440원~290,640원
+- [코란도 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%BD%94%EB%9E%80%EB%8F%84/): KGM, 2026년 새 차 기준 연 130,000원~290,640원
+- [렉스턴 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%A0%89%EC%8A%A4%ED%84%B4/): KGM, 2026년 새 차 기준 연 560,820원
+- [트랙스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%8A%B8%EB%9E%99%EC%8A%A4/): 쉐보레, 2026년 새 차 기준 연 218,200원~290,820원
+- [트레일블레이저 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%B8%94%EB%A0%88%EC%9D%B4%EC%A0%80/): 쉐보레, 2026년 새 차 기준 연 218,200원~244,060원
+- [말리부 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%A7%90%EB%A6%AC%EB%B6%80/): 쉐보레, 2026년 새 차 기준 연 244,060원~519,480원
+- [스파크 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%8A%A4%ED%8C%8C%ED%81%AC/): 쉐보레, 2026년 새 차 기준 연 103,880원
+- [BMW 3시리즈 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/BMW-3%EC%8B%9C%EB%A6%AC%EC%A6%88/): BMW, 2026년 새 차 기준 연 518,700원~778,180원
+- [BMW 5시리즈 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/BMW-5%EC%8B%9C%EB%A6%AC%EC%A6%88/): BMW, 2026년 새 차 기준 연 130,000원~1,142,700원
+- [BMW X5 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/BMW-X5/): BMW, 2026년 새 차 기준 연 519,220원~1,142,700원
+- [벤츠 C클래스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%B2%A4%EC%B8%A0-C%ED%81%B4%EB%9E%98%EC%8A%A4/): 벤츠, 2026년 새 차 기준 연 507,000원~1,035,320원
+- [벤츠 E클래스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%B2%A4%EC%B8%A0-E%ED%81%B4%EB%9E%98%EC%8A%A4/): 벤츠, 2026년 새 차 기준 연 507,000원~1,035,320원
+- [벤츠 S클래스 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%B2%A4%EC%B8%A0-S%ED%81%B4%EB%9E%98%EC%8A%A4/): 벤츠, 2026년 새 차 기준 연 760,500원~1,554,800원
+- [벤츠 GLC 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%B2%A4%EC%B8%A0-GLC/): 벤츠, 2026년 새 차 기준 연 507,000원~1,035,320원
+- [테슬라 모델3 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%85%8C%EC%8A%AC%EB%9D%BC-%EB%AA%A8%EB%8D%B83/): 테슬라, 2026년 새 차 기준 연 130,000원
+- [테슬라 모델Y 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%ED%85%8C%EC%8A%AC%EB%9D%BC-%EB%AA%A8%EB%8D%B8Y/): 테슬라, 2026년 새 차 기준 연 130,000원
+- [아우디 A6 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EC%95%84%EC%9A%B0%EB%94%94-A6/): 아우디, 2026년 새 차 기준 연 511,680원~771,420원
+- [볼보 XC60 자동차세](https://car.factpane.com/%EC%B0%A8%EC%A2%85/%EB%B3%BC%EB%B3%B4-XC60/): 볼보, 2026년 새 차 기준 연 511,940원
+
+## 자동차세 안내
+
+- [자동차세 납부기간과 연납 할인](https://car.factpane.com/%EA%B0%80%EC%9D%B4%EB%93%9C/%EC%9E%90%EB%8F%99%EC%B0%A8%EC%84%B8-%EB%82%A9%EB%B6%80%EA%B8%B0%EA%B0%84-%EC%97%B0%EB%82%A9/)
+- [자동차세 환급](https://car.factpane.com/%EA%B0%80%EC%9D%B4%EB%93%9C/%EC%9E%90%EB%8F%99%EC%B0%A8%EC%84%B8-%ED%99%98%EA%B8%89/)
+- [자동차 취등록세 계산](https://car.factpane.com/%EA%B0%80%EC%9D%B4%EB%93%9C/%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%B7%A8%EB%93%B1%EB%A1%9D%EC%84%B8/)
+- [전기차 자동차세와 취득세 감면](https://car.factpane.com/%EA%B0%80%EC%9D%B4%EB%93%9C/%EC%A0%84%EA%B8%B0%EC%B0%A8-%EC%9E%90%EB%8F%99%EC%B0%A8%EC%84%B8/)
+- [경차 자동차세와 취득세](https://car.factpane.com/%EA%B0%80%EC%9D%B4%EB%93%9C/%EA%B2%BD%EC%B0%A8-%EC%9E%90%EB%8F%99%EC%B0%A8%EC%84%B8/)
+
+## 사이트 정보
+
+- [소개](https://car.factpane.com/%EC%86%8C%EA%B0%9C/): 데이터 출처와 세율 근거 조문
